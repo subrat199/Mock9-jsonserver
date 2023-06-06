@@ -1,0 +1,26 @@
+{
+    "freelancers":[
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "password",
+        "profession": "Web Developer",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "hourly_rate": 25,
+        "profile_picture": "https://img.freepik.com/premium-photo/image-colorful-galaxy-sky-generative-ai_791316-9864.jpg?w=2000",
+        "isBooked" : false
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "password": "password",
+        "profession": "Graphic Designer",
+        "skills": ["Photoshop", "Illustrator"],
+        "hourly_rate": 30,
+        "profile_picture": "https://img.freepik.com/premium-photo/image-colorful-galaxy-sky-generative-ai_791316-9864.jpg?w=2000",
+        "isBooked" : true
+      }
+    ]
+}
